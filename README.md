@@ -21,7 +21,7 @@ VKSApp es un sistema interno que deja gestionar los procesos de desarrollo bajo 
 - **Versión:** 1.0.0
 
 <pre> 
-  # Diagrama 
+  # DIAGRAMA 
   main 
    ├── Development 
    │    ├── Feature1 
